@@ -27,5 +27,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
 
-    implementation 'com.dianping.android.sdk:logan:1.1.0'
+//    implementation 'com.dianping.android.sdk:logan:1.1.0'
+    implementation 'com.dianping.android.sdk:logan:1.2.4'
 }
